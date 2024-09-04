@@ -1,0 +1,38 @@
+{
+  "gitSyncId": "66b3bc0b8a684347f26814ae_86db2f27-3f7e-4818-8724-39fdd1b4dc57",
+  "id": "Page1_etteet",
+  "moduleUUID": "97d0e0d0-de0d-43d7-8662-eec2f9f89bc0",
+  "packageUUID": "1b6a0209-49db-4159-a820-350911373738",
+  "type": "JS_MODULE",
+  "unpublishedModuleInstance": {
+    "contextType": "PAGE",
+    "dynamicBindingPathList": [
+      {
+        "key": "myFun1"
+      }
+    ],
+    "inputs": {
+      "myFun1": "[\"{{11}}\"]",
+      "myFun2": "[]"
+    },
+    "moduleInputs": {
+      "bbssehgmkd": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[\"{{1}}\"]",
+        "id": "bbssehgmkd",
+        "label": "myFun1",
+        "propertyName": "inputs.myFun1"
+      },
+      "pjajhhqadm": {
+        "controlType": "INPUT_TEXT",
+        "defaultValue": "[]",
+        "id": "pjajhhqadm",
+        "label": "myFun2",
+        "propertyName": "inputs.myFun2"
+      }
+    },
+    "name": "etteet",
+    "pageId": "Page1",
+    "version": "0.0.12"
+  }
+}

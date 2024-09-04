@@ -1,0 +1,14 @@
+{
+  "gitSyncId": "66b3bc0b8a684347f26814ae_feef5ab0-3326-4000-bbdc-4dd6ae13a2fe",
+  "id": "Page1__$etteet$_JSModule1",
+  "isPublic": true,
+  "moduleInstanceId": "Page1_etteet",
+  "rootModuleInstanceId": "Page1_etteet",
+  "unpublishedCollection": {
+    "contextType": "PAGE",
+    "name": "_$etteet$_JSModule1",
+    "pageId": "Page1",
+    "pluginId": "js-plugin",
+    "pluginType": "JS"
+  }
+}
